@@ -1,4 +1,2 @@
-* .class
-bin/
-.claspath
-
+build/
+*.txt
